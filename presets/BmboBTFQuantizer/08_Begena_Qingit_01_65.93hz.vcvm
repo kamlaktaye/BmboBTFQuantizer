@@ -1,0 +1,18 @@
+{
+  "plugin": "BmboBTFQuantizer",
+  "model": "BmboBTFQuantizer",
+  "version": "2.6.6",
+  "params": [
+    {
+      "id": 0,
+      "value": 0.0
+    },
+    {
+      "id": 1,
+      "value": 0.0
+    }
+  ],
+  "data": {
+    "btfText": "BTF 1.0\n\nTitle: Begena_Qingit_01_65.93hz\nRoot: 65.93\nStructure: Closed\n\nIntervals:\n1/1\n92/81\n11/9\n127/84\n81/49\n2/1\n"
+  }
+}
