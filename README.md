@@ -1,4 +1,4 @@
-# Bmbo BTF Quantizer (v0.1)
+# Bmbo BTF Quantizer (v2.0.0)
 
 A polyphonic VCV Rack quantizer that loads **BTF** (Bmbo Tuning Format) files
 and quantizes incoming 1V/oct CV to the loaded tuning.
@@ -53,12 +53,12 @@ the Module or Widget structure.
 If no tuning is loaded, the Quantizer passes CV through unchanged rather
 than producing silence or garbage.
 
-## BTF format (v1.0)
+## BTF format (v2.0.0)
 
 ```
 BTF 1.0
 
-Title: Ethiopian Example
+Title: Example
 Root: 440
 Structure: Closed
 
