@@ -1,0 +1,18 @@
+{
+  "plugin": "BmboBTFQuantizer",
+  "model": "BmboBTFQuantizer",
+  "version": "2.6.6",
+  "params": [
+    {
+      "id": 0,
+      "value": 0.0
+    },
+    {
+      "id": 1,
+      "value": 0.0
+    }
+  ],
+  "data": {
+    "btfText": "BTF 1.0\n\nTitle: Agnwak_2_105.805_hz\nRoot: 105.805\nStructure: Closed\n\nIntervals:\n1/1\n16/13\n111/83\n31/20\n19/12\n2/1\n"
+  }
+}
