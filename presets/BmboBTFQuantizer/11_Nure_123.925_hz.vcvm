@@ -1,0 +1,18 @@
+{
+  "plugin": "bmbo",
+  "model": "BTFQuantizer",
+  "version": "2.6.6",
+  "params": [
+    {
+      "id": 0,
+      "value": 0.0
+    },
+    {
+      "id": 1,
+      "value": 0.0
+    }
+  ],
+  "data": {
+    "btfText": "BTF 1.0\n\nTitle: Nure_123.925_hz\nRoot: 123.925\nStructure: Closed\n\nIntervals:\n1/1\n91/82\n92/75\n197/147\n139/94\n241/147\n2/1\n"
+  }
+}
