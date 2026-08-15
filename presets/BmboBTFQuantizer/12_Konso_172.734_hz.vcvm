@@ -1,0 +1,18 @@
+{
+  "plugin": "bmbo",
+  "model": "BTFQuantizer",
+  "version": "2.6.6",
+  "params": [
+    {
+      "id": 0,
+      "value": 0.0
+    },
+    {
+      "id": 1,
+      "value": 0.0
+    }
+  ],
+  "data": {
+    "btfText": "BTF 1.0\n\nTitle: Konso_172.734_hz\nRoot: 172.734\nStructure: Closed\n\nIntervals:\n1/1\n71/63\n97/73\n19/14\n62/43\n63/40\n9/5\n88/47\n2/1\n"
+  }
+}
