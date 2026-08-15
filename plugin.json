@@ -18,7 +18,7 @@
       "description": "Polyphonic quantizer that loads Bmbo Tuning Format (BTF) files and quantizes 1V/oct CV to the loaded tuning.",
       "tags": [
         "Quantizer",
-        "Polyphonic",
+        "Polyphonic"
       ]
     }
   ]
