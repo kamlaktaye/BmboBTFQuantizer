@@ -5,10 +5,10 @@
   "license": "MIT",
   "author": "Kamlak Taye",
   "authorEmail": "kamlakbmbo@gmail.com",
-  "authorUrl": "https://www.kamlaktaye.com.et",
-  "pluginUrl": "",
-  "manualUrl": "",
-  "sourceUrl": "",
+  "authorUrl": "https://github.com/kamlaktaye",
+  "pluginUrl": "https://github.com/kamlaktaye/BmboBTFQuantizer",
+  "manualUrl": "https://github.com/kamlaktaye/BmboBTFQuantizer",
+  "sourceUrl": "https://github.com/kamlaktaye/BmboBTFQuantizer",
   "changelogUrl": "",
   "brand": "Bmbo",
   "modules": [
@@ -19,7 +19,6 @@
       "tags": [
         "Quantizer",
         "Polyphonic",
-        "Tuning"
       ]
     }
   ]
