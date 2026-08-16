@@ -1,7 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="60.96mm" height="128.5mm" viewBox="0 0 60.96 128.5">
-  <!-- Intentionally blank. PanelChrome (in BmboBTFQuantizer.cpp) draws the
-       actual background, border, dividers, and labels at runtime so the
-       dark/light mode toggle can repaint the whole panel live. This SVG
-       only exists to give Rack the panel's pixel dimensions. -->
-  <rect x="0" y="0" width="60.96" height="128.5" fill="none"/>
-</svg>
