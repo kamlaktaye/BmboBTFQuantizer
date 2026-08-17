@@ -1,0 +1,5 @@
+plugin.dll
+build/
+*.o
+*.dylib
+*.so
